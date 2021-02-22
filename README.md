@@ -23,5 +23,5 @@ python foldername/filename.py
   
 ### Author:
 - Author: Jack O'Keeffe
-- [Repl.it](https://repl.it/@jackokeeffe) Profile
+- [Repl.it Profile](https://repl.it/@jackokeeffe)
 - [freeCodeCamp Profile](https://www.freecodecamp.org/jackokeeffe)
