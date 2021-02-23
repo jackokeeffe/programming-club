@@ -16,6 +16,7 @@ python foldername/filename.py
 - [02/02/21: Password Generator](https://repl.it/talk/share/020221-Password-Generator/123453)
 - [02/09/21: Number Guessing Game](https://repl.it/talk/share/020921-Number-Guessing-Game/123455)
 - [2/16/21: Mini Activities](https://repl.it/talk/share/21621-Mini-Activities/123456)
+- [2/23/21: Search Algorithms](https://repl.it/@jackokeeffe/Club-Code-022321#main.py)
 
 ### Built With:
 - Made using Python.
