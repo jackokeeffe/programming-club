@@ -14,7 +14,7 @@ python foldername/filename.py
 - [01/19/21: Hangman](https://repl.it/talk/share/011921-Hangman/123449)
 - [01/26/21: Circumference Calculator](https://repl.it/talk/share/012621-Circumference-Calculator/123452)
 - [02/02/21: Password Generator](https://repl.it/talk/share/020221-Password-Generator/123453)
-- [02/09/21: Number Guessing Game](https://repl.it/talk/share/020921-Number-Guessing-Game/123455)
+- [02/09/21: Number Guessing Game](https://repl.it/@jackokeeffe/Club-Code-020921#main.py)
 - [2/16/21: Mini Activities](https://repl.it/talk/share/21621-Mini-Activities/123456)
 - [2/23/21: Search Algorithms](https://repl.it/@jackokeeffe/Club-Code-022321#main.py)
 
