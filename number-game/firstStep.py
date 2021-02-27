@@ -13,8 +13,7 @@ def check_number():
 			print("Correct")
 		else:
 			print("Incorrect")
-
-	elif (random_number % 2 != 0):
+	else:
 		if user_guess == "odd":
 			print("Correct")
 		else:

@@ -14,8 +14,7 @@ def check_number():
 			print("Correct")
 		else:
 			print("Incorrect")
-
-	elif (random_number % 2 != 0):
+	else:
 		if user_guess == "odd":
 			print("Correct")
 		else:
@@ -36,7 +35,7 @@ def incorrect():
 		print("Your guess was too high")
 	else:
 		print("Your guess was too low")
-	print('You have ' + str(guesses) + " left")
+	print('You have ' + str(guesses) + " guesses left")
 	number_guess()
 
 check_number()
