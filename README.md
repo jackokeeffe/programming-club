@@ -15,8 +15,9 @@ python foldername/filename.py
 - [01/26/21: Circumference Calculator](https://repl.it/talk/share/012621-Circumference-Calculator/123452)
 - [02/02/21: Password Generator](https://repl.it/talk/share/020221-Password-Generator/123453)
 - [02/09/21: Number Guessing Game](https://repl.it/@jackokeeffe/Club-Code-020921#main.py)
-- [2/16/21: Mini Activities](https://repl.it/talk/share/21621-Mini-Activities/123456)
-- [2/23/21: Search Algorithms](https://repl.it/@jackokeeffe/Club-Code-022321#main.py)
+- [02/16/21: Mini Activities](https://repl.it/talk/share/21621-Mini-Activities/123456)
+- [02/23/21: Search Algorithms](https://repl.it/@jackokeeffe/Club-Code-022321#main.py)
+- [03/02/21: Editing Files](https://repl.it/@jackokeeffe/020321-Edit-File#main.py)
 
 ### Built With:
 - Made using Python.
