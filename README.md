@@ -18,6 +18,7 @@ python foldername/filename.py
 - [02/16/21: Mini Activities](https://repl.it/talk/share/21621-Mini-Activities/123456)
 - [02/23/21: Search Algorithms](https://repl.it/@jackokeeffe/Club-Code-022321#main.py)
 - [03/02/21: Editing Files](https://repl.it/@jackokeeffe/020321-Edit-File#main.py)
+- [03/09/21: Password Checker](https://replit.com/@jackokeeffe/Password-Check#main.py)
 
 ### Built With:
 - Made using Python.
