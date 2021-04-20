@@ -24,6 +24,12 @@ python foldername/filename.py
 - 03/30/31: Delayed
 - [04/06/21: Tkinter Basics](https://replit.com/@jackokeeffe/040621-Tkinter-Basics?v=1)
 - 04/13/21: April Break
+- [04/20/21: Tkinter Basics (Review)](https://replit.com/@jackokeeffe/040621-Tkinter-Basics?v=1)
+
+### Resources:
+- [Github Basics](https://guides.github.com/activities/hello-world/)
+- [Markdown Basics](https://www.markdownguide.org/cheat-sheet/)
+- [Github Student Developer Pack](https://education.github.com/pack)
 
 ### Built With:
 - Made using Python.
