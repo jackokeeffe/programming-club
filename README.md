@@ -25,6 +25,7 @@ python foldername/filename.py
 - [04/06/21: Tkinter Basics](https://replit.com/@jackokeeffe/040621-Tkinter-Basics?v=1)
 - 04/13/21: April Break
 - [04/20/21: Tkinter Basics (Review)](https://replit.com/@jackokeeffe/040621-Tkinter-Basics?v=1)
+- [04/27/21: Advanced Tkinter](https://replit.com/@jackokeeffe/Advanced-Tkinter#advanced.py)
 
 ### Resources:
 - [Github Basics](https://guides.github.com/activities/hello-world/)
