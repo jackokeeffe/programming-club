@@ -26,6 +26,7 @@ python foldername/filename.py
 - 04/13/21: April Break
 - [04/20/21: Tkinter Basics (Review)](https://replit.com/@jackokeeffe/040621-Tkinter-Basics?v=1)
 - [04/27/21: Advanced Tkinter](https://replit.com/@jackokeeffe/Advanced-Tkinter#advanced.py)
+- [05/04/21: External Libraries (yfinance)](https://replit.com/@jackokeeffe/External-Libraries#challenge.py)
 
 ### Guides:
 - [Tkinter Guide](https://github.com/jackokeeffe/programming-club/blob/master/guides/tkinter-guide.md)
