@@ -30,6 +30,7 @@ python foldername/filename.py
 - [05/11/21: More External Libraries (IMDbPy)](https://replit.com/@jackokeeffe/more-external-libraries#movies.py)
 - [05/18/21: Library Review](https://replit.com/@jackokeeffe/library-review#movie_ratings.py)
 - 05/25/21: Delayed (Exams)
+- 06/01/21: Delayed (Exams)
 
 ### Guides:
 - [Tkinter Guide](https://github.com/jackokeeffe/programming-club/blob/master/guides/tkinter-guide.md)
