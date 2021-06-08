@@ -31,6 +31,7 @@ python foldername/filename.py
 - [05/18/21: Library Review](https://replit.com/@jackokeeffe/library-review#movie_ratings.py)
 - 05/25/21: Delayed (Exams)
 - 06/01/21: Delayed (Exams)
+- [06/08/21: Bad Code](https://replit.com/@jackokeeffe/badcode#README.md)
 
 ### Guides:
 - [Tkinter Guide](https://github.com/jackokeeffe/programming-club/blob/master/guides/tkinter-guide.md)
