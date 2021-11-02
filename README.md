@@ -15,6 +15,7 @@ python foldername/filename.py
 **Year Two:**
 - [10/05/21: Hangman](https://replit.com/@jackokeeffe/Hangman-Preview#example.py)
 - [10/12/21: Number Games](https://replit.com/@jackokeeffe/number-games-Preview#main.py)
+- [10/19/21: Password Generator](https://replit.com/@jackokeeffe/password-generator-Preview#main.py)
 
 **Year One:**
 - [01/19/21: Hangman](https://repl.it/talk/share/011921-Hangman/123449)
