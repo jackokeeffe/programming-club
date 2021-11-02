@@ -57,6 +57,6 @@ Division that rounds decimal points down:``` 7//2 = 3```
 3. Allow user to select if they would like symbols in their password.
 
 ### Resources
-[Old Solution (Click Here!)](https://github.com/jackokeeffe/programming-club/tree/master/year-two/password-generator/thirdStep-old.py)
+[Old Solution (Click Here!)](https://github.com/jackokeeffe/programming-club/blob/master/year-two/password-generator/thirdStepOld.py)
 
 [Github](https://github.com/jackokeeffe/programming-club): Where all the code answers/solutions will be stored.
