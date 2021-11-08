@@ -43,7 +43,7 @@ python foldername/filename.py
 - [06/08/21: Bad Code](https://replit.com/@jackokeeffe/badcode#README.md)
 
 ### Guides:
-- [Tkinter Guide](https://github.com/jackokeeffe/programming-club/blob/master/guides/tkinter-guide.md)
+- [Tkinter Guide](https://github.com/jackokeeffe/programming-club/blob/master/year-one/guides/tkinter-guide.md)
 
 ### Resources:
 - [Github Basics](https://guides.github.com/activities/hello-world/)
