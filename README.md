@@ -18,6 +18,7 @@ python foldername/filename.py
 - [10/19/21: Password Generator](https://replit.com/@jackokeeffe/password-generator-Preview#main.py)
 - [10/26/21: Password Security](https://replit.com/@jackokeeffe/password-security-Preview#main.py)
 - [11/2/21: Mini Activities](https://replit.com/@jackokeeffe/mini-activities-Preview#main.py)
+- [11/9/21: Search Algorithms](https://replit.com/@jackokeeffe/search-algorithms-Preview#main.py)
 
 **Year One:**
 - [01/19/21: Hangman](https://repl.it/talk/share/011921-Hangman/123449)
