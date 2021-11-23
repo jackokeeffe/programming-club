@@ -20,7 +20,7 @@ Work **with a partner** to solve one or more of these challenges.
 - Your program should work with different k values.
 - Inspiration for this problem comes from: https://bit.ly/3cIGHXW
 
-** 3. Rock Paper Scissors! ([Solution](https://replit.com/@jackokeeffe/Programming-Club-2021-8#rockPaperScissors.py))**
+**3. Rock Paper Scissors! ([Solution](https://replit.com/@jackokeeffe/Programming-Club-2021-8#rockPaperScissors.py))**
 - This can be a challenging program so make sure to brainstorm how you want to approach it before starting to code.
 - As a challenge, try to keep your code as short as possible! 
 - Here are the rules to Rock Paper Scissors: 
