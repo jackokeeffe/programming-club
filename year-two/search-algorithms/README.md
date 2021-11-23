@@ -6,7 +6,7 @@ Click on the shell tab (to the right)
 Type ```python files/yourname.py``` and click ```enter```.
 
 ### Algorithms
-Choose a challenge and try to create a solution either on your own or with a partner.
+Try to create your version of these search algorithms. Afterwards, I'll show you my solutions.
 
 ** 1. Linear Search ([Solution](https://replit.com/@jackokeeffe/search-algorithms-Preview#linearSearch.py))**
 - Searches every value of the list.
