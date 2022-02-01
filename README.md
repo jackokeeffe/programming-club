@@ -27,7 +27,7 @@ python foldername/filename.py
 - 01/11/22: API Basics*
 - 01/18/22: Delayed (Snowday)
 - 01/25/22: Teacher-Ran
-- [02/02/22: post-requests](https://replit.com/@jackokeeffe/post-requests#solutions/postAPI.py)
+- [02/02/22: Post Requests (API)](https://replit.com/@jackokeeffe/post-requests#solutions/postAPI.py)
 
 **Year One:**
 - [01/19/21: Hangman](https://repl.it/talk/share/011921-Hangman/123449)
