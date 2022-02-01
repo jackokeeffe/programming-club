@@ -22,6 +22,11 @@ python foldername/filename.py
 - [11/16/21: Code Errors](https://replit.com/@jackokeeffe/code-errors-preview#main.py)
 - [11/23/21: Partner Problems](https://replit.com/@jackokeeffe/partner-problems-Preview#main.py)
 - 11/30/21: Delayed
+- 12/7/21: Advent Calendar (including API)*
+- 12/14/21: Teacher-Ran
+- 01/11/22: API Basics*
+- 01/18/22: Delayed (Snowday)
+- 01/25/22: Teacher-Ran
 
 **Year One:**
 - [01/19/21: Hangman](https://repl.it/talk/share/011921-Hangman/123449)
