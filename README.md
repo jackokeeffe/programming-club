@@ -24,7 +24,7 @@ python foldername/filename.py
 - 11/30/21: Delayed
 - 12/7/21: Advent Calendar (including API)*
 - 12/14/21: Teacher-Ran
-- 01/11/22: API Basics*
+- [01/11/22: API Basics](https://replit.com/@jackokeeffe/api-basics#main.py)
 - 01/18/22: Delayed (Snowday)
 - 01/25/22: Teacher-Ran
 - [02/02/22: Post Requests (API)](https://replit.com/@jackokeeffe/post-requests#solutions/postAPI.py)
