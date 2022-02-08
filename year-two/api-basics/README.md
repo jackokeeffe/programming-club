@@ -11,7 +11,7 @@ type ```python files/yourname.py``` and click ```enter```.
 - You can use them to check the weather, stock prices, or, create your own.
 - Think of it as code that is stored online, allowing it to be accessed from anywhere.
 
-### Challenges
+### Challenges (Not Completed)
 Try to change your API to solve this. Try new things, there are many different ways to use APIs, I have not gone over all of them.
 
 **Step 1. Football Countdown ([Solution]())**
